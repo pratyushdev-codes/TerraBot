@@ -1,6 +1,8 @@
 # TerraBot
 
 <img width="1157" alt="image" src="https://github.com/user-attachments/assets/1a6bfe72-f419-4b9d-89a7-af8df38d09d8" />
+<img width="1077" alt="image" src="https://github.com/user-attachments/assets/5f5e4c8f-a799-43f2-b0a3-52636443d457" />
+
 <img width="1155" alt="image" src="https://github.com/user-attachments/assets/eaeb37c6-2f83-43e1-8580-24056f2363b7" />
 <img width="1034" alt="image" src="https://github.com/user-attachments/assets/81bbd864-4a1f-4839-83ff-c95708dd73d5" />
 
